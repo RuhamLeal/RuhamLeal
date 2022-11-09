@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [ruham.lsantos@gmail.com](mailto:ruham.lsantos@gmail.com)
-* 🧠  I'm learning Nest.js now
+* 🧠  I'm learning TypeScript now
 
 ### Skills
 
