@@ -29,11 +29,10 @@ Hi ! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/RuhamLeal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ruham-leal-dos-santos-sutil-38a837243/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/RuhamLeal" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/ruham-leal-dos-santos-sutil-38a837243/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/RuhamLeal"><img src="https://github-readme-stats.vercel.app/api?username=RuhamLeal&show_icons=true&hide=stars,&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=0f172a&hide_border=true&show_icons=true" alt="RuhamLeal's GitHub stats" /></a>
 
 <a href="http://www.github.com/RuhamLeal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RuhamLeal&stroke=ffffff&background=0f172a&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
