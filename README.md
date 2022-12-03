@@ -27,6 +27,7 @@ Hi ! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="git" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+ <img src="https://img.shields.io/badge/Sequelize-563D7C?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize" />
 </div>
 
 ### Socials
