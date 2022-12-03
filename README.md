@@ -3,7 +3,7 @@ Hi ! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [ruham.lsantos@gmail.com](mailto:ruham.lsantos@gmail.com) and in my Linkedin below
-* 🧠  I'm learning TypeScript and improving my knowledge in AWS now
+* 🧠  I'm improving my knowledge in AWS now
 * :evergreen_tree: I love to enjoy nature, it gives me calm and quiet moments to think
 * :green_apple: Vegetarian
 
@@ -13,6 +13,7 @@ Hi ! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 <div>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-E34F26?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="express" />
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
