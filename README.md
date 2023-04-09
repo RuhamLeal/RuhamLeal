@@ -26,7 +26,7 @@ Hi ! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 <img src="https://img.shields.io/badge/Sequelize-1572B6?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize" />
 <img src="https://img.shields.io/badge/Mongoose-E34F26?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
 <img src="https://img.shields.io/badge/Prisma-1572B6?style=for-the-badge&logo=prisma&logoColor=white" alt="Sequelize" />
-<img src="https://img.shields.io/badge/Vue.js-1572B6?style=for-the-badge&logo=vue.js&logoColor=white" alt="vue" />
+<img src="https://img.shields.io/badge/Vue.js-1572B6?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
 </div>
 <br/>
 <br/>
