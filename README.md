@@ -27,10 +27,10 @@ Hi ! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 <img src="https://img.shields.io/badge/Mongoose-E34F26?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
 <img src="https://img.shields.io/badge/Prisma-1572B6?style=for-the-badge&logo=prisma&logoColor=white" alt="Sequelize" />
 <img src="https://img.shields.io/badge/Vue.js-1572B6?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
-<img src="https://img.shields.io/badge/Jest-1572B6?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
-<img src="https://img.shields.io/badge/Mocha-1572B6?style=for-the-badge&logo=mocha&logoColor=white" alt="Mocha" />
+<img src="https://img.shields.io/badge/Jest-43853D?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+<img src="https://img.shields.io/badge/Mocha-20232A?style=for-the-badge&logo=mocha&logoColor=white" alt="Mocha" />
 <img src="https://img.shields.io/badge/Sinon-1572B6?style=for-the-badge&logo=sinon&logoColor=white" alt="Sinon" />
-<img src="https://img.shields.io/badge/Chai-1572B6?style=for-the-badge&logo=chai&logoColor=white" alt="Chai" />
+<img src="https://img.shields.io/badge/Chai-E34F26?style=for-the-badge&logo=chai&logoColor=white" alt="Chai" />
 </div>
 <br/>
 <br/>
