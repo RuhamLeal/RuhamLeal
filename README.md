@@ -47,6 +47,25 @@ Hi ! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
   <img src="https://img.shields.io/badge/Flask-593D88?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 </div>
 </details>
+<hr/>
+<div>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</div>
+
+## 👾 Databases
+
+<div>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1572B6?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgre" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+</div>
+
+## 👾 Cloud and Containers
+<div>
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
+</div>
+
 
 ### Socials
 
