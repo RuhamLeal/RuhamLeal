@@ -47,7 +47,6 @@ Hi ! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 </div>
 </details>
 <br/>
-<br/>
 
 ## 💽 Databases
 
@@ -57,14 +56,13 @@ Hi ! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
 </div>
 <br/>
-<br/>
 
 ## ☁️ Cloud and Containers
 <div>
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
 </div>
-
+<br/>
 
 ### Socials
 
