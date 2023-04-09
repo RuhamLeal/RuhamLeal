@@ -3,7 +3,7 @@ Hi ! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [ruham.lsantos@gmail.com](mailto:ruham.lsantos@gmail.com) and in my Linkedin below
-* 🧠  I'm improving my knowledge in AWS and Node-OPCUA 
+* 🧠  I'm improving my knowledge in AWS now
 * :evergreen_tree: I love to enjoy nature, it gives me calm and quiet moments to think
 * :green_apple: Vegetarian
 
