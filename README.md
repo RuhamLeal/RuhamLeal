@@ -44,6 +44,7 @@ Hi ! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
   <img src="https://img.shields.io/badge/Quarkus-43853D?style=for-the-badge&logo=quarkus&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Hibernate-43853D?style=for-the-badge&logo=hibernate&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Maven-593D88?style=for-the-badge&logo=maven&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Javaserver_faces-593D88?style=for-the-badge&logo=javaserverfaces&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/JUnit5-593D88?style=for-the-badge&logo=junit&logoColor=white" alt="Flask" />
 </div>
 </details>
