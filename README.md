@@ -35,15 +35,16 @@ Hi ! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 </details>
 <hr/>
 <div>
-<img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/java-3776AB?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 </div>
 <details>
   <summary>Frameworks and libraries</summary><br />
 <div>
-  <img src="https://img.shields.io/badge/Pytest-43853D?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
-  <img src="https://img.shields.io/badge/Pandas-43853D?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-43853D?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Flask-593D88?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Spring_Boot-43853D?style=for-the-badge&logo=springboot&logoColor=white" alt="Pytest" />
+  <img src="https://img.shields.io/badge/Quarkus-43853D?style=for-the-badge&logo=quarkus&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Hibernate-43853D?style=for-the-badge&logo=hibernate&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Maven-593D88?style=for-the-badge&logo=maven&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/JUnit5-593D88?style=for-the-badge&logo=junit&logoColor=white" alt="Flask" />
 </div>
 </details>
 <hr/>
